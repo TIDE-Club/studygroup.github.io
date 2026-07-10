@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/"
+  },
+  {
+    "path": "/projects"
+  },
+  {
+    "path": "/projects/:id"
+  },
+  {
+    "path": "/content"
+  },
+  {
+    "path": "/rules"
+  },
+  {
+    "path": "/apply"
+  },
+  {
+    "path": "/apply/proposal"
+  },
+  {
+    "path": "/apply/questionnaire"
+  }
+]
