@@ -491,7 +491,7 @@
     "isHot": false,
     "audience": "graduate",
     "category": "科研能力",
-    "status": "completed",
+    "status": "full_ongoing",
     "startDate": "2026.07.03",
     "description": "面向希望将 AI Coding Agent 融入科研、课程项目、实验脚本、数据处理、论文复现、可视化展示和小型工具开发流程的研究生同学，在短周期内通过同伴协作和 AI 工具辅助，把问题做成可以展示、可以复盘、可以继续迭代的小作品。",
     "target": "帮助成员理解 AI Coding Agent 在科研与工程实践中的基本使用方式，掌握如何向 AI 提供充分上下文、如何将模糊需求拆解为可执行任务、如何借助 AI 推进原型开发、debug、文档整理和展示准备。成员应能够完成一个能运行的小工具、脚本、demo、dashboard 或代码改进案例，形成一套自己实际使用过的 AI Coding Agent 工作流，并共同沉淀可复用的 prompt、上下文模板、debug 记录、失败案例、工具笔记和作品展示材料。",
